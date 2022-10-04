@@ -2,14 +2,14 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://alexandrvorontsov.github.io/ice-cream-hunters",
+  "homepage": "https://ViktoriiaMurzhak.github.io/ice-cream-huntersi",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /ice-cream-hunters/"
+    "build": "parcel build src/*.html --public-url /ice-cream-huntersi/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/ViktoriiaMurzhak/ice-cream-huntersi.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
